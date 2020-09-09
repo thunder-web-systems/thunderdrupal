@@ -1,3 +1,5 @@
 vendor
 web
 drush
+/.editorconfig
+/.gitattributes
