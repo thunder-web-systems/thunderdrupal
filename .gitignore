@@ -3,3 +3,4 @@ web
 drush
 /.editorconfig
 /.gitattributes
+composer.lock
